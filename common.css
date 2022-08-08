@@ -1,0 +1,10 @@
+body { 
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+
+  p.title{
+    text-align: center;
+    font-size: 30pt;
+    font-style: normal;
+  }
